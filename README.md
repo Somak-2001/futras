@@ -34,18 +34,18 @@ To run **Futras** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/futras.git
+sudo git clone https://github.com/Somak-2001/futras.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/futras.git
+git clone https://github.com/Somak-2001/futras.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Twitter](https://x.com/Somak_Dev).
 
 ### License
 
